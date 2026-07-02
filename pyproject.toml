@@ -7,7 +7,7 @@ name = "pulsetop"
 version = "0.1.0"
 description = "A fast, good-looking terminal system monitor — CPU, memory, network, disk and processes, live."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Obakeng Mdonyelwa" }]
 keywords = ["tui", "terminal", "system-monitor", "textual", "htop", "dashboard", "cli"]
